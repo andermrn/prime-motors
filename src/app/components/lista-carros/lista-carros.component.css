@@ -16,3 +16,18 @@
   margin: 0;
   font-size: 18px;
 }
+
+.tabela-container {
+  margin-top: 16px;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+}
+
+.campo-busca {
+  width: 100%;
+  max-width: 360px;
+  margin-top: 16px;
+}
